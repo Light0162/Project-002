@@ -34,7 +34,4 @@ project-002 192.168.1.10   # Set the IP directly from command
 project-002 history        # View target IP history
 project-002 modify         # Edit hotkeys (opens config)
 project-002 --help         # View help menu
-<<<<<<< HEAD
-=======
 project-002 --version      # Show version info
->>>>>>> e14c67a (Initial upload)
